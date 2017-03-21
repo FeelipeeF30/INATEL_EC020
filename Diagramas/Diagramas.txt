@@ -1,0 +1,6 @@
+Diagramas:
+ - Diagrama de Blocos 
+ - Diagrama de Controle
+ - Diagrama de Camadas
+ 
+ Obs.: Talvez não estajam corretos. Diagramas suscetíveis a mudanças.
